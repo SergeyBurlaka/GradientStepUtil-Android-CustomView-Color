@@ -3,7 +3,7 @@
 ![](https://github.com/SergeyBurlaka/GradientStep/blob/master/app/art/1.jpg)
 
 
-I have wrote the [util class](https://github.com/SergeyBurlaka/GradientStepUtil-Android-CustomView-Color/blob/master/app/src/main/java/com/b5eg/stepgradient/StepGradientUtil.kt) for calculate colors gradient.
+I have wrote the [StepGradientUtil class](https://github.com/SergeyBurlaka/GradientStepUtil-Android-CustomView-Color/blob/master/app/src/main/java/com/b5eg/stepgradient/StepGradientUtil.kt) for calculate colors gradient.
 
 via very, very simple Kotlin code:
 
